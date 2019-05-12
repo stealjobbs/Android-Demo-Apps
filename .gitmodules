@@ -1,0 +1,4 @@
+[submodule "Android-Fragments/FragmentsDemo"]
+	path = Android-Fragments/FragmentsDemo
+	url = E:/IDE workspacees/Android Studio/FragmentsDemo
+	branch = master
