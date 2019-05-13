@@ -4,5 +4,5 @@
 	branch = master
 [submodule "Android-Fragments/FragmentsDemo2Countries"]
 	path = Android-Fragments/FragmentsDemo2Countries
-	url = E:/IDE workspacees/Android Studio/FragmentsDemo2Countries
+	url = https://github.com/SteveTheJobless/FragmentsDemo2Countries.git
 	branch = master
