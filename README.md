@@ -1,3 +1,4 @@
 <h1>README.md</h1>
+NOT UNDER DEVELOPMENT ANYMORE
 
 This repository contains repo modules of android applications that are examples to execute different features of the Android OS. The repos consist of a series of commits that start from the most basic feature of a topic in android and the consecutive commits consist of complex features of the same topic so that it is easy to follow and learn the topics from the basics. Most of the apps(During this projects creation at least) are related to tutorials I have learnt from whose link I have put up in the README.md file. I started this project mainly for my personal reference, if you want to collaborate by making the code more descriptive for everybody to understand or add new modules to the repo you are welcome to do so!(You can fork and commit or you can ping me to become a collaborator)
